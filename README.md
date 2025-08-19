@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Hoàng+Cao+Thống!;16+years+old+Developer;Building+the+future+with+code!;From+Vietnam+🇻🇳" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/huythuy123nhat-eng123?label=Followers&style=social)](https://github.com/huythuy123nhat-eng123)
-[![GitHub stars](https://img.shields.io/github/stars/huythuy123nhat-eng123?label=Stars&style=social)](https://github.com/huythuy123nhat-eng123)
+[![Profile Views](https://komarev.com/ghpvc/?username=caothongdev&color=blue&style=flat)](https://github.com/caothongdev)
+[![GitHub followers](https://img.shields.io/github/followers/caothongdev?label=Followers&style=social)](https://github.com/caothongdev)
 
 </div>
 
@@ -113,6 +113,7 @@
 ### 🇻🇳 Dự án hiện tại
 - 🌐 **Website cá nhân:** [caothong.is-a.dev](https://caothong.is-a.dev)
 - 🔗 **SaaS "Link Profile Việt":** Giống Linktree/Guns.lol cho thị trường Việt Nam
+- 🤖 **Bot Discord:** AI trò chuyện, quản lý thanh toán & bán hàng
 - 📱 **Ứng dụng Android:** Nhận thông báo đơn hàng & duyệt nạp tiền
 
 </td>
@@ -121,6 +122,7 @@
 ### 🌍 Current Projects
 - 🌐 **Personal Website:** [caothong.is-a.dev](https://caothong.is-a.dev)
 - 🔗 **SaaS "Link Profile Việt":** Linktree/Guns.lol alternative for Vietnamese market
+- 🤖 **Discord Bot:** AI chat, payment management & sales support
 - 📱 **Android App:** Order notifications & payment approval system
 
 </td>
@@ -158,12 +160,22 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Hành trình GitHub / GitHub Journey
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=huythuy123nhat-eng123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huythuy123nhat-eng123&layout=compact&langs_count=7&theme=tokyonight"/>
+### 🌟 Just Getting Started!
+*Tôi mới bắt đầu hành trình trên GitHub, hãy theo dõi để xem những dự án thú vị sắp tới!*
+
+*I'm just starting my GitHub journey, stay tuned for exciting projects coming soon!*
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+
+**🚀 Coming Soon / Sắp ra mắt:**
+- [ ] Personal Portfolio Website
+- [ ] Discord Bot Source Code
+- [ ] Link Profile Vietnam Platform
+- [ ] Python Automation Tools
 
 </div>
 
@@ -188,7 +200,9 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-caothong.is--a.dev-blue?style=for-the-badge&logo=google-chrome)](https://caothong.is-a.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-huythuy123nhat--eng123-black?style=for-the-badge&logo=github)](https://github.com/huythuy123nhat-eng123)
+[![GitHub](https://img.shields.io/badge/GitHub-caothongdev-black?style=for-the-badge&logo=github)](https://github.com/caothongdev)
+
+**📧 Email:** [Contact me through my website](https://caothong.is-a.dev)
 
 </div>
 
@@ -200,5 +214,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 **Thanks for visiting! / Cảm ơn bạn đã ghé thăm!** 🚀
+
+*⭐ Don't forget to star my repositories if you find them interesting!*  
+*⭐ Đừng quên star các repository nếu bạn thấy thú vị nhé!*
 
 </div>
