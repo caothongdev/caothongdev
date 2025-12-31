@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My Digital Space
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hoàng+Cao+Thống+%7C+Full-Stack+Developer;Building+scalable+solutions+with+modern+tech;Passionate+about+innovation+%26+entrepreneurship;From+Vietnam+🇻🇳+to+the+world+🌍" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hoàng+Cao+Thống+%7C+Software+Engineer;Building+scalable+solutions+with+modern+tech;Passionate+about+innovation+%26+entrepreneurship;From+Vietnam+🇻🇳+to+the+world+🌍" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=caothongdev&color=blue&style=flat-square)](https://github.com/caothongdev)
 [![GitHub followers](https://img.shields.io/github/followers/caothongdev?label=Followers&style=social)](https://github.com/caothongdev)
