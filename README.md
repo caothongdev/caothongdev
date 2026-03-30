@@ -18,7 +18,7 @@
 <td width="50%">
 
 ### 🎯 **Professional Focus**
-**Full-Stack Developer** with a passion for creating scalable web applications and automation solutions. Currently specializing in **Python ecosystem** and **modern JavaScript frameworks**, with a strong interest in **SaaS development** and **business automation**.
+**Software Engineer** with a passion for creating scalable web applications and automation solutions. Currently specializing in **Python ecosystem** and **modern JavaScript frameworks**, with a strong interest in **SaaS development** and **business automation**.
 
 **Core Values:**
 - 📈 **Growth-oriented mindset**
@@ -31,11 +31,11 @@
 
 ### 🌍 **Background**
 - **Name:** Hoàng Cao Thống (caothongdev)
-- **Age:** 16 | **Born:** March 30, 2009
+- **Age:** 17 | **Born:** March 30, 2009
 - **Location:** Hậu Giang & Cần Thơ, Vietnam
 - **Languages:** Vietnamese (Native), English (Advancing to IELTS 7.0)
 
-**Current Status:** Early-career developer building foundation in enterprise-level technologies while developing entrepreneurial ventures.
+**Current Status:** Early-career software engineer building foundation in enterprise-level technologies while developing entrepreneurial ventures.
 
 </td>
 </tr>
@@ -136,20 +136,20 @@
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caothongdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caothongdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)](https://github.com/caothongdev)
 
 </td>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caothongdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caothongdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)](https://github.com/caothongdev)
 
 </td>
 </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caothongdev&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=caothongdev&theme=tokyonight&hide_border=true)](https://github.com/caothongdev)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=caothongdev&theme=tokyo-night&hide_border=true&area=true)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=caothongdev&theme=tokyo-night&hide_border=true&area=true)](https://github.com/caothongdev)
 
 </div>
 
@@ -157,7 +157,9 @@
 
 ## 🚀 Current Projects & Ventures
 <div align="center">
-### ** Active Development Pipeline**
+
+### **⚡ Active Development Pipeline**
+
 </div>
 
 <div align="center">
@@ -248,7 +250,7 @@
 <tr>
 <td width="33%">
 
-### **🏗️ Short-term (2025)**
+### **🏗️ Short-term (2026)**
 - Launch 3 production-ready SaaS applications
 - Build sustainable revenue streams
 - Establish thought leadership in Vietnamese tech community
@@ -257,7 +259,7 @@
 </td>
 <td width="33%">
 
-### **🚀 Medium-term (2026-2027)**
+### **🚀 Medium-term (2027-2028)**
 - Scale successful products internationally  
 - Build a remote development team
 - Contribute to open-source ecosystem
